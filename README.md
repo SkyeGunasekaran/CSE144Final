@@ -139,7 +139,6 @@ Our team’s Kaggle leaderboard position is shown below:
 
 ![Kaggle Leaderboard](kaggle_leaderboard.png)
 
-Make sure `kaggle_leaderboard.png` is included in the repository root so that the image renders correctly on GitHub.
 
 ## Reproducibility Notes
 
